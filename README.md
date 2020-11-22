@@ -10,6 +10,7 @@ Mr. Nattawut Reungsap. Joined Thailandpost Co., Ltd in 2017.
 
 His hobbies include exercise, badminton, fitness and traveling.
 
+
 Certificate
 * ISO/IEC 27001 Information Security Management Systems Lead Auditor
 * Certified Ethical Hacker (CEHv10)
