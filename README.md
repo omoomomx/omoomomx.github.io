@@ -1,6 +1,6 @@
 # omoomomx.github.io NEIS0736
 
-__**Biography**__
+**Biography**
 
 ![](pic.jpg "Mr.Nattawut Reungsap")
 
