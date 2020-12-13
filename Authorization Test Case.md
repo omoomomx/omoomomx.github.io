@@ -1,4 +1,4 @@
-# authorization of the server resource with Cacti for users
+# Authorization of the server resource with Cacti for users
 
 Valid case
 1. User Log-in Access Cacti with the feature username and password.
