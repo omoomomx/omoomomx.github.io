@@ -1,5 +1,7 @@
 # Two Factor Authentication on Firefox
 
+Mozilla Firefox เปิดตัวการตรวจสอตัวตนแบบสองขั้นตอนสำหรับผู้ใช้บัญชีแล้ว โดยมีวิธีการตั้งค่าง่าย ๆ ที่ทุกคนสามารถทำตามได้ ดังนี้
+
 1. Login Firefox Browser
 ![](img/1.jpg)
 
