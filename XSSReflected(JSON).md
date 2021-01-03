@@ -17,7 +17,8 @@
 ขั้นตอนที่ 5 : ตรวจสอบบรรทัดที่ 131 ของ Code ที่มีช่องโหว่ (ตามรูปภาพ)
 ![](imgmid/d1/4.png)
 
-ขั้นตอนที่ 6 : กดปุ่ม "get help" เพื่อดูรายละเอียดของช่องโหว่ รวมถึงเลือก Securing Functions เพื่อมาแก้ไขช่องโหว่ดังกล่าว สำหรับบทความนี้เลือก "Highlight_string"
+ขั้นตอนที่ 6 : กดปุ่ม "get help" เพื่อดูรายละเอียดของช่องโหว่ รวมถึงเลือก Securing Functions เพื่อมาแก้ไขช่องโหว่ดังกล่าว สำหรับบทความนี้เลือก Highlight_string 
+
 ![](imgmid/d1/5.png)
 
 ขั้นตอนที่ 7 : กดลิงค์ "Highlight_string" เพื่อดูตัวอย่างการใช้ Securing Functions จาก www.php.net
@@ -25,7 +26,7 @@
 
 ขั้นตอนที่ 8 : ทำการเพิ่ม Securing Functions ตามคำแนะนำของ www.php.net
 ![](imgmid/d1/7.png)
-Code เดิม
+/n Code เดิม
 
 ![](imgmid/d1/8.png)
 Code แก้ไขแล้ว
