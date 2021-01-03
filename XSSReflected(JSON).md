@@ -26,9 +26,11 @@
 
 ขั้นตอนที่ 8 : ทำการเพิ่ม Securing Functions ตามคำแนะนำของ www.php.net
 ![](imgmid/d1/7.png)
-/n Code เดิม
+
+Code เดิม
 
 ![](imgmid/d1/8.png)
+
 Code แก้ไขแล้ว
 
 ขั้นตอนที่ 9 : ใช้ RIPS สแกนช่องโหว่ของ Code อีกครั้ง
@@ -39,6 +41,8 @@ Code แก้ไขแล้ว
 
 ## อ้างอิง
 - www.php.net
+
 --------------------------------------
+
 #Code4Sec #NEIS0736 #NECS0736
 ### Nattawut Reungsap
