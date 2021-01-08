@@ -1,6 +1,6 @@
 # Cross-Site Scripting - Reflected (JSON)
 
-บทความนี้แสดงวิธีการปิดช่องโหว่ Cross-Site Scripting - Reflected (JSON) ซึ่งช่องโหว่ดังกล่าวเป็นการแทรก JavaScript ลงไปบนเว็บแอปพลิเคชัน โดยไม่เก็บ JavaScript ลงในฐานข้อมูล โดยแสดงวิธีการต่าง ๆ บน bWAPP ดังนี้
+บทความนี้แสดงวิธีการปิดช่องโหว่ Cross-Site Scripting - Reflected (JSON) ซึ่งช่องโหว่ดังกล่าวเป็นการแทรก JavaScript ลงไปบนเว็บแอปพลิเคชั่น โดยไม่เก็บ JavaScript ลงในฐานข้อมูล โดยแสดงวิธีการต่าง ๆ บน bWAPP ดังนี้
 
 ขั้นตอนที่ 1 : เข้าสู่ bWAPP (ในที่นี้ bWAPP ติดตั้งอยู่บน Virtual Machine)
 
