@@ -1,6 +1,6 @@
 # os.path.basename()
 
-บทความนี้แสดงวิธีการใช้ os.path.basename() ซึ่งเป็น Function ของภาษา Python อยู่ใน Modules ที่ชื่อว่า "OS" เป็น Modules อันหนึ่งที่มีอยู่ใน Python ตั้งแต่แรก โดยไม่ต้องติดตั้งเพิ่มและมีโอกาสใช้งานบ่อย ภายในนี้มีพวก Function ที่เกี่ยวข้องกับระบบปฏิบัติการ (Operating System : OS) สำหรับจัดการกับ Path ของไฟล์บน OS
+บทความนี้แสดงวิธีการใช้ os.path.basename() ซึ่งเป็น Function ของภาษา Python อยู่ใน Modules ที่ชื่อว่า "OS" เป็น Modules หนึ่งที่มีอยู่ใน Python ตั้งแต่แรก โดยไม่ต้องติดตั้งเพิ่มและมีโอกาสใช้งานบ่อย ภายใน Function นี้มีพวก Function ที่เกี่ยวข้องกับระบบปฏิบัติการ (Operating System : OS) สำหรับจัดการกับ Path ของไฟล์บน OS
 
 
 ![os.path.basename](imgmid/d7/1.jpg)
@@ -36,6 +36,7 @@
 
 
 ### วิธีการใช้ os.path.basename()
+จะไม่แสดง Path ของไฟล์ที่อยู่บนระบบปฏิบัติการ (OS) รายละเอียดตามรูปภาพ
 
 ![os.path.basename](imgmid/d7/3.jpg)
 
