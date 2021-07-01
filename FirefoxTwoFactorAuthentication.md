@@ -30,7 +30,3 @@ Mozilla Firefox เปิดตัวการตรวจสอตัวตน�
 ![](img/9.jpg)
 
 --------------------------------------
-
-### Members
-- Nattawut Reungsap
-- Shirassuda Thongpakdhi
